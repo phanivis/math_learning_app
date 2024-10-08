@@ -1,0 +1,66 @@
+{
+    "Multiplication": {
+        "Multiplying 3 numbers": [
+            {
+                "numbers": [3, 2, 5]
+            },
+            {
+                "numbers": [5, 1, 8]
+            },
+            {
+                "numbers": [2, 6, 3]
+            },
+            {
+                "numbers": [4, 3, 2]
+            }
+        ]
+    },
+    "Fractions": {
+        "Reducing a fraction to 1": [
+            {
+                "numerator": 5,
+                "denominator": 1
+            },
+            {
+                "numerator": 3,
+                "denominator": 4
+            },
+            {
+                "numerator": 2,
+                "denominator": 5
+            },
+            {
+                "numerator": 6,
+                "denominator": 2
+            }
+        ],
+        "Finding the greatest common divisor": [
+            {
+                "numbers": [4, 12]
+            },
+            {
+                "numbers": [3, 6]
+            },
+            {
+                "numbers": [6, 12]
+            }
+        ],
+        "Multiplying a fraction by 1": [
+            {
+                "numerator": 3,
+                "denominator": 4,
+                "result": 20
+            },
+            {
+                "numerator": 2,
+                "denominator": 3,
+                "result": 18
+            },
+            {
+                "numerator": 3,
+                "denominator": 8,
+                "result": 16
+            }
+        ]
+    }
+}
